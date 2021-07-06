@@ -9,7 +9,7 @@ A new Flutter project.
 
 ## ContentFeature
 <p float="center">
-  <img src="assets/feature.png" width="90%" />
+  <img src="assets/feature.png" width="110%" />
 </p>
 
 ## Techstack
